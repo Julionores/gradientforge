@@ -14,7 +14,8 @@ d'utiliser ces algorithmes comme des boîtes noires.
 > portfolio technique orienté Machine Learning / Cloud. Voir aussi
 > [`radar-risque-impaye`](https://github.com/Julionores/radar-risque-impaye), un pipeline de
 > classification scikit-learn pour prédire un risque de retard de paiement,
-> [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner), et
+> [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner),
+> [`ticket-tide`](https://github.com/Julionores/ticket-tide), et
 > [`devsecops-pipeline-reference`](https://github.com/Julionores/devsecops-pipeline-reference),
 > [`securebank-api`](https://github.com/Julionores/securebank-api),
 > [`postgresql-ha-repmgr`](https://github.com/Julionores/postgresql-ha-repmgr),
