@@ -13,7 +13,8 @@ d'utiliser ces algorithmes comme des boîtes noires.
 > [LinkedIn](https://www.linkedin.com/in/junior-tsafack-megnekeu-b673151b9)) — pièce d'un
 > portfolio technique orienté Machine Learning / Cloud. Voir aussi
 > [`radar-risque-impaye`](https://github.com/Julionores/radar-risque-impaye), un pipeline de
-> classification scikit-learn pour prédire un risque de retard de paiement, et
+> classification scikit-learn pour prédire un risque de retard de paiement,
+> [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner), et
 > [`devsecops-pipeline-reference`](https://github.com/Julionores/devsecops-pipeline-reference),
 > [`securebank-api`](https://github.com/Julionores/securebank-api),
 > [`postgresql-ha-repmgr`](https://github.com/Julionores/postgresql-ha-repmgr),
