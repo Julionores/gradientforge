@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest>=8.0
+scikit-learn>=1.4
+matplotlib>=3.8
+black>=24.0
+flake8>=7.0
